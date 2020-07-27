@@ -28,7 +28,7 @@
   "version": "1.0.0",
   "main": "webpack.mix.js",
   "directories": {
-    "test": "tests"
+    "deploy": "tests"
   },
   "repository": {
     "type": "git",
@@ -40,5 +40,5 @@
   "bugs": {
     "url": "https://github.com/darwin-dh/acad/issues"
   },
-  "homepage": "https://github.com/darwin-dh/acad#readme"
+  "homepage": "https://github.com/darwin-dh/acad"
 }
